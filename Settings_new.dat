@@ -1,0 +1,29 @@
+M108 analysis:
+/mnt/ksf9/H2/user/u0148069/_IO/MEDICIS/MED024_2020/Nov/Coincidence/raw_data/
+/mnt/ksf9/H2/user/u0148069/share/my.public/Coincidence_creation/output/M108_semiexp/
+m108_Activities_semiexp.csv
+_m108_coincidences.root
+_m108_singles.root
+6
+m108/MED024_M108_0/RAW/, m108/MED024_M108_2/RAW/, m108/MED024_M108_3/RAW/, m108/MED024_M108_4/RAW/, m108/MED024_M108_5/RAW/, m108/MED024_M108_6/RAW/
+0_, 2_, 3_, 4_, 5_, 6_
+-----
+3, 2
+Ge01, Ge02
+218.0, 440.45, 1567.0
+{[100, 300], [300, 600], [1300, 1600]}; {[100, 300], [300, 600], [1300, 1600]}
+-----
+9.9203, 46.9224211794, 465.0, 1567.0
+{5, 10}; {5, 10}
+-----
+Data_R, DataR
+500.0, -200.0, 200.0
+2000
+2
+-----
+11, 4, 11, 0
+{11, 11, 11, 11, 11, 12}; {14, 18, 19, 22, 26, 2}; {12, 14, 18, 10, 12, 17}; {3, 20, 34, 58, 40, 49}
+-----
+1, 1
+
+-----
